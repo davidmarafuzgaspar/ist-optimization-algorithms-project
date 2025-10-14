@@ -76,6 +76,10 @@ eps = 1e-6
 lambda_0 = 1
 k = 0
 
+#print("C_ls")
+#print(c_ls)
+#c_ls = np.array([-1.0621100344153003, 0.9947560513264783])
+
 grad_f = np.zeros((3, 25))
 C = c_ls.reshape(-1)  # ensure shape (2,)
 R = float(R_ls)  # ensure scalar
@@ -129,4 +133,5 @@ plt.title("Gradient Norm vs Iteration (LM) - Log Scale")
 plt.grid(True)
 plt.show()
 
+print(" --- gradient_norms --- ")
 print(gradient_norms)
