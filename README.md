@@ -34,7 +34,7 @@ ist-optimization-algorithms-project/
 │   ├── Task_10.ipynb            # Circle fitting analysis
 │   └── Task_11.ipynb            # Circle fitting with multi agent
 │
-├── Project.pdf                  # Project specification
+├── Assignment.pdf               # Project specification
 ├── Report.pdf                   # Project report
 └── README.md                    # This file
 ```
