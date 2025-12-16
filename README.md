@@ -71,7 +71,7 @@ Each task follows a systematic approach:
 
 ## Documentation
 
-- **Project Specification**: See `Project.pdf` for detailed problem descriptions
+- **Project Specification**: See `Assignment.pdf` for detailed problem descriptions
 - **Project Report**: See `Report.pdf` for comprehensive analysis and results
 
 ## Important Notes
